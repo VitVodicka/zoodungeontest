@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "Hello";
 }
 
 // Spuštění programu: Ctrl+F5 nebo nabídka Ladit > Spustit bez ladění
